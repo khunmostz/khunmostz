@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kittabun Sukkasem</h1>
 <h3 align="center">I'm Most or Kittabun Sukkasem, a passionate Flutter developer dedicated to crafting engaging and visually appealing app experiences!</h3>
 
-- 🔭 I’m currently working on **Android and IOS Mobile Project**
+- 🔭 I’m currently working on **Flutter Android and IOS Mobile Project**
 
 - 🌱 I’m currently learning **Devops and etc.**
 
